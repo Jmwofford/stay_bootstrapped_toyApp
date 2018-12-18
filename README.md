@@ -3,8 +3,8 @@
     => using bootstrap's wheel. 
   
         #General Execution Strategy
-            => initialized GitRepo - link2bootStrap - unlocked bcrypt
-            =>
+            => initialized GitRepo - link2bootStrap - unlocked bcrypt 
+            =>  Wireframe - ERD - Jquery - bStrap
             =>
             =>
             =>
